@@ -1,0 +1,109 @@
+[    
+    {
+        "id": "1",
+        "workspaceName": "Test space",
+        "users": [
+            {
+                "userid": 1,
+                "username": "user1"
+            },
+            {
+                "userid": 2,
+                "username": "user2"
+            },
+            {
+                "userid": 3,
+                "username": "user3"
+            }
+        ],
+        "ok": true,
+        "channel": [
+            {
+                "channelid": "C0DEL09A5",
+                "name": "endeavor",
+                "is_channel": true,
+                "created": 1502833204,
+                "creator": "U061F7AUR",
+                "is_archived": false,
+                "is_general": false,
+                "name_normalized": "endeavor",
+                "is_shared": false,
+                "is_org_shared": false,
+                "is_member": true,
+                "is_private": false,
+                "is_mpim": false,
+                "last_read": "0000000000.000000",
+                "latest": null,
+                "unread_count": 0,
+                "unread_count_display": 0,
+                "members": [ 
+                    "U061F7AUR",
+                    "ABCNKDUFIO"
+                ],
+                "topic": {
+                    "value": "",
+                    "creator": "",
+                    "last_set": 0
+                },
+                "purpose": {
+                    "value": "",
+                    "creator": "",
+                    "last_set": 0
+                },
+                "previous_names": []
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "workspaceName": "Test space2",
+        "users": [
+            {
+                "userid": 1,
+                "username": "user1"
+            },
+            {
+                "userid": 2,
+                "username": "user2"
+            },
+            {
+                "userid": 3,
+                "username": "user3"
+            }
+        ],
+        "ok": true,
+        "channel": {
+            "id": "C0DEL01357",
+            "name": "endeavor2",
+            "is_channel": true,
+            "created": 1502833204,
+            "creator": "U061F7AUR",
+            "is_archived": false,
+            "is_general": false,
+            "name_normalized": "endeavor2",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_member": true,
+            "is_private": false,
+            "is_mpim": false,
+            "last_read": "0000000000.000000",
+            "latest": null,
+            "unread_count": 0,
+            "unread_count_display": 0,
+            "members": [
+                "U061F7NJI"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": []
+        }
+    }
+]

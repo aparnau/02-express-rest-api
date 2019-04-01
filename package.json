@@ -1,0 +1,34 @@
+{
+  "name": "02-express-rest-api",
+  "version": "1.0.0",
+  "description": "02-express-rest-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "./node_modules/.bin/eslint *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab-sapient.stackroute.in/assignments/02-express-rest-api.git"
+  },
+  "keywords": [],
+  "author": "Aparna",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "logger": "0.0.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "heroku": "^7.18.4",
+    "nodemon": "^1.18.5"
+  }
+}

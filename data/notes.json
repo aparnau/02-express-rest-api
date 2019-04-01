@@ -1,0 +1,26 @@
+[
+    {
+        "noteId" : 1,
+        "noteTitle" : "Note 1",
+        "noteDescription": "Note 1 description",
+        "createdAt" : "Sun, 06 Nov 1994 08:49:37 GMT"
+    },
+    {
+        "noteId" : 2,
+        "noteTitle" : "Note 2",
+        "noteDescription": "Note 2 description",
+        "createdAt" : "Sun, 07 Nov 1990 08:49:37 GMT"
+    },
+    {
+        "noteId" : 3,
+        "noteTitle" : "Note 3",
+        "noteDescription": "Note 3 description",
+        "createdAt" : "Sun, 09 Nov 2001 08:49:37 GMT"
+    },
+    {
+        "noteId" : 4,
+        "noteTitle" : "Note 4",
+        "noteDescription": "Note 4 description",
+        "createdAt" : "Sun, 03 Nov 2016 08:49:37 GMT"
+    }
+]
